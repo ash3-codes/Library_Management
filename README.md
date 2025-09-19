@@ -9,20 +9,7 @@ LibraNet is a robust, object-oriented library management system built with Java.
 
 ---
 
-## 📜 Table of Contents
 
-- [✨ Key Features](#✨-key-features)
-- [🏗️ Project Structure](#🏗️-project-structure)
-- [🚀 Getting Started](#🚀-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation & Execution](#installation--execution)
-- [💻 Usage Example](#💻-usage-example)
-- [📖 Class Design & Documentation](#📖-class-design--documentation)
-- [🔧 Customization & Extensibility](#🔧-customization--extensibility)
-- [🧪 Testing](#🧪-testing)
-- [🤝 Contributing](#🤝-contributing)
-- [📄 License](#📄-license)
-- [📧 Contact](#📧-contact)
 
 ---
 
