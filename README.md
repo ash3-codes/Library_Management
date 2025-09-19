@@ -3,7 +3,6 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Java-8+-blue.svg" alt="Java">
     <img src="https://img.shields.io/badge/Maven-3.6+-brightgreen.svg" alt="Maven">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 </p>
 
 LibraNet is a robust, object-oriented library management system built with Java. It provides a comprehensive platform for managing books, audiobooks, and e-magazines, complete with a full-featured borrowing system, automated fine calculation, and powerful search capabilities.
